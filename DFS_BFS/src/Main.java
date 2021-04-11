@@ -19,7 +19,7 @@ public class Main {
 		ArrayList<Node> dfs = new ArrayList<Main.Node>();
 		LinkedList<LinkedNode> bfs = new LinkedList<Main.LinkedNode>();
 
-		// 노드 생성중 fff
+		// 노드 생성중
 		for (int i = 0; i < input[0]; i++) {
 			Node newNode = new Node();
 			LinkedNode newLinkedNode = new LinkedNode();
